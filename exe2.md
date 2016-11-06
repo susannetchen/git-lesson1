@@ -4,4 +4,6 @@ This is a commit on a new branch! I used ```git checkout exercise2``` to switch 
 
 Hello world in my favorite language:
 
-```printf("Hello World!");```
+```C language:
+printf("Hello World!");```
+
